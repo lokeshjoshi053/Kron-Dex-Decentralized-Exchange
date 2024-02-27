@@ -1,15 +1,5 @@
   <h1>Kron-dex</h1>
 
-  <p>
-    <strong>Project kron Rust Monorepo</strong>
-  </p>
-
-  <p>
-    <a href="https://travis-ci.com/project-kron/kron-dex"><img alt="Build Status" src="https://travis-ci.com/project-kron/kron-dex.svg?branch=master" /></a>
-    <a href="https://discord.com/channels/739225212658122886"><img alt="Discord Chat" src="https://img.shields.io/discord/739225212658122886?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/project-kron/kron-dex?color=blue" /></a>
-  </p>
-
   <h4>
     <a href="https://projectkron.com/">Website</a>
     <span> | </span>
