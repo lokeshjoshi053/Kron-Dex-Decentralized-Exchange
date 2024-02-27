@@ -1,18 +1,5 @@
   <h1>Kron-dex</h1>
 
-  <h4>
-    <a href="https://projectkron.com/">Website</a>
-    <span> | </span>
-    <a href="https://discord.gg/HSeFXbqsUX">Discord</a>
-    <span> | </span>
-    <a href="https://github.com/project-kron/awesome-kron">Awesome</a>
-    <span> | </span>
-    <a href="https://dex.projectkron.com/#/">DEX</a>
-    <span> | </span>
-    <a href="https://github.com/project-kron/kron-ts">TypeScript</a>
-  </h4>
-</div>
-
 ## Program Deployments
 
 | Program | Devnet | Mainnet Beta |
