@@ -1,25 +1,25 @@
   <h1>Kron-dex</h1>
 
   <p>
-    <strong>Project Serum Rust Monorepo</strong>
+    <strong>Project kron Rust Monorepo</strong>
   </p>
 
   <p>
-    <a href="https://travis-ci.com/project-serum/serum-dex"><img alt="Build Status" src="https://travis-ci.com/project-serum/serum-dex.svg?branch=master" /></a>
+    <a href="https://travis-ci.com/project-kron/kron-dex"><img alt="Build Status" src="https://travis-ci.com/project-kron/kron-dex.svg?branch=master" /></a>
     <a href="https://discord.com/channels/739225212658122886"><img alt="Discord Chat" src="https://img.shields.io/discord/739225212658122886?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/project-serum/serum-dex?color=blue" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/project-kron/kron-dex?color=blue" /></a>
   </p>
 
   <h4>
-    <a href="https://projectserum.com/">Website</a>
+    <a href="https://projectkron.com/">Website</a>
     <span> | </span>
     <a href="https://discord.gg/HSeFXbqsUX">Discord</a>
     <span> | </span>
-    <a href="https://github.com/project-serum/awesome-serum">Awesome</a>
+    <a href="https://github.com/project-kron/awesome-kron">Awesome</a>
     <span> | </span>
-    <a href="https://dex.projectserum.com/#/">DEX</a>
+    <a href="https://dex.projectkron.com/#/">DEX</a>
     <span> | </span>
-    <a href="https://github.com/project-serum/serum-ts">TypeScript</a>
+    <a href="https://github.com/project-kron/kron-ts">TypeScript</a>
   </h4>
 </div>
 
@@ -31,7 +31,7 @@
 
 ## Note
 
-* **Serum is in active development so all APIs and protocols are subject to change.**
+* **kron is in active development so all APIs and protocols are subject to change.**
 * **The code is unaudited. Use at your own risk.**
 
 ## Contributing
@@ -72,6 +72,6 @@ The easiest way to run a local cluster is to use [solana-test-validator](https:/
 
 * `assert-owner`: Solana utility program for checking account ownership.
 * `common`: Common rust utilities.
-* `dex`: Serum DEX program and client utility.
-* `pool`: Serum pool protocol.
+* `dex`: kron DEX program and client utility.
+* `pool`: kron pool protocol.
 * `scripts`: Bash scripts for development.
